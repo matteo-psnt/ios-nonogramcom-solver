@@ -38,7 +38,6 @@ Side Clues: [[1], [7], [1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 5], [1, 1, 1, 1], [2, 
 Puzzle solved successfully!
 ```
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -62,7 +61,7 @@ cd ios-nonogramcom-solver
 
 ```bash
 chmod +x setup.sh
-./setup.sh
+source setup.sh
 ```
 
 3. Activate the virtual environment (if not already activated):
